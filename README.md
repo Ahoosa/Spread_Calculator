@@ -38,8 +38,3 @@ Challenge 2:
 
 ![Image](sampleOutput2.png "icon")
 
-# Given Additonal Time
-I would:
-- test my code against a wider range of data with more edge cases.
--  focus on optimizing the code for larger datasets.
-- improve the format of the output for better visualization  
